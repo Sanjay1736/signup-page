@@ -84,3 +84,7 @@ h6{
 #btn:hover{
    background-color: rgb(218, 86, 86);
 }
+img{
+    position: relative;
+    left: 5px;
+}
